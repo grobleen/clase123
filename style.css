@@ -1,0 +1,21 @@
+.NOTA{
+font-size:10px;
+color:blue;
+}
+body{
+background-color:beige;
+text-align:center;
+}
+.copy_right_footer{
+bottom:0;
+width:100pc;
+background-color:rgb(247, 210, 154);
+color:black;
+position:fixed;
+text-align:center;
+}
+canvas{
+border:2px solid crimson;
+border-radius:15px;
+box-shadow:5px 5px 5px blueviolet;
+}
